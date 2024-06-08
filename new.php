@@ -1,4 +1,3 @@
-<?php
-
- echo "hello world";
+<?php 
+echo "tewting 1";
 ?>
