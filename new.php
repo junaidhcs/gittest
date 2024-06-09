@@ -1,3 +1,3 @@
 <?php 
-echo "tewting 6";
+echo "tewting 7";
 ?>
